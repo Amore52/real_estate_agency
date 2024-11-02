@@ -24,8 +24,5 @@
 ## Цели проекта
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
-#   r e a l _ e s t a t e _ a g e n c y 
- 
- #   r e a l _ e s t a t e _ a g e n c y 
  
  
